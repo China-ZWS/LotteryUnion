@@ -1,0 +1,31 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++5431",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++4048",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++5431" : {
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++4048" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++5431" : 0
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++4048" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5FEC1452-BB4F-48BE-83DF-BD4221FB9E83",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++5431" : "ios\/"
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++4048" : "SVN%20%E5%BD%A9%E7%A5%A8%E8%81%94%E7%9B%9F\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LotteryUnion",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "新版\/LotteryUnion\/LotteryUnion.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LotteryUnion\/LotteryUnion.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/115.28.244.226\/svn\/CaiPiaoLianMeng",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++5431"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++4048"
+    }
+  ]
+}

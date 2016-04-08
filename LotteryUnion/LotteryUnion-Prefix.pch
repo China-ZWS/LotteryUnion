@@ -1,0 +1,30 @@
+//
+//  LotteryUnion-Prefix.pch
+//  LotteryUnion
+//
+//  Created by 周文松 on 15/10/23.
+//  Copyright © 2015年 TalkWeb. All rights reserved.
+//
+
+#ifndef LotteryUnion_Prefix_pch
+#define LotteryUnion_Prefix_pch
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import "Device.h"
+#import "Header.h"
+#import "Category.h"
+#import "AppConfig.h"
+#import "MacroDefine.h"
+#import "UIImageView+WebCache.h"
+#import "ProjectAPI.h"
+#import "UtilMethod.h"
+#import "RequestModel.h"
+#import "keychainItemManager.h"
+#import "SVProgressHUD.h"
+//#import "NSString+MD5Addition.h"
+#endif
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* LotteryUnion_Prefix_pch */

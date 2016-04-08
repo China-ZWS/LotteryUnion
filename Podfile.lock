@@ -1,0 +1,23 @@
+PODS:
+  - FMDB (2.6):
+    - FMDB/standard (= 2.6)
+  - FMDB/standard (2.6)
+  - Reachability (3.2)
+  - SDWebImage (3.7.4):
+    - SDWebImage/Core (= 3.7.4)
+  - SDWebImage/Core (3.7.4)
+  - SVProgressHUD (1.1.3)
+
+DEPENDENCIES:
+  - FMDB (~> 2.4)
+  - Reachability (~> 3.2)
+  - SDWebImage (~> 3.7.3)
+  - SVProgressHUD (~> 1.1.3)
+
+SPEC CHECKSUMS:
+  FMDB: c1968bab3ab0aed38f66cb778ae1e7fa9a652b6e
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 247edd7dd80dd6124197b0d6a17846fe9d1df968
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+
+COCOAPODS: 0.39.0

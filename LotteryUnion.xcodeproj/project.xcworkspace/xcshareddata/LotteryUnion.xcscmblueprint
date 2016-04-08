@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++7784",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++7784" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++7784" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82723958-74FB-4584-8941-65D973430FB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++7784" : "%E5%BD%A9%E7%A5%A8%E8%81%94%E7%9B%9FSVN\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LotteryUnion",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LotteryUnion.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/115.28.244.226\/svn\/CaiPiaoLianMeng",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8eb1c61a-2378-dc4b-8f21-70abff3a11e6++7784"
+    }
+  ]
+}
